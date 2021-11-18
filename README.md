@@ -1,4 +1,4 @@
-# <Aburrido.Digital>
+# >Aburrido.Digital<
 
 -----
 Aquí se construye **aburrido.digital**
