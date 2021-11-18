@@ -1,2 +1,2 @@
 # Aburrido
-_placeholder_ para proyecto Aburrido
+_placeholder_ para proyecto Aburrido...
