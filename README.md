@@ -1,11 +1,11 @@
-# Aburrido.Digital
+# <Aburrido.Digital>
 
 -----
 Aquí se construye **aburrido.digital**
 
 Mientras tanto, puedes encontrar contenido en ::
 
-- AburridoPodcast en [Spotify](https://duckduckgo.com "El espacio para hablar de todo y de nada.")
+- AburridoPodcast en [Spotify](https://open.spotify.com/show/4xdv0YQSe6WTdvtHoOAsdR "El espacio para hablar de todo y de nada.")
 
 - AburridoChannel en [Youtube](https://www.youtube.com/channel/UCTf7S_bB7Vqd3hx1nFP46Tg "A veces comparto algún tutorial sobre algo.") y en [Twitch](https://www.twitch.tv/AburridoChan/ "Comúnmente haciendo el ridículo en algún videojuego.")
 
