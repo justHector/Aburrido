@@ -24,11 +24,15 @@ twitter_username: AburridoChan
 github_username: justHector
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 # theme: minima
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -44,5 +48,5 @@ plugins:
 
 
 # deployment
-host: 0.0.0.0
-port: 4000
+# host: 0.0.0.0
+# port: 4000
