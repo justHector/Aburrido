@@ -1,7 +1,8 @@
+Aquí se construye 
 # Aburrido.Digital
+(a paso lento pero seguro)
 
 -----
-Aquí se construye **aburrido.digital**
 
 Mientras tanto, puedes encontrar contenido en ::
 
